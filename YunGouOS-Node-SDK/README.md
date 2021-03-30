@@ -577,8 +577,8 @@ console.log(result);
 
 ```js
 Finance.rePayAliPay(merchant_id, out_trade_no, account, account_name, money, desc, mch_id, key).then((response)=>{
-    //接口返回结果
-    console.log(response);
+   //接口返回结果
+   console.log(response);
 });
 ```
 
